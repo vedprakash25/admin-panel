@@ -16,9 +16,8 @@
 ##### components : Same
 
 
-
-
 ## Composition API
 
-- Composition API introduced in Vue 3
+- Composition API introduced in Vue 3.
+- 
   
