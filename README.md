@@ -1,24 +1,24 @@
-# learn-vue
+## Option API / Traditional Way to define Vuejs structure
 
-## Project setup
-```
-npm install
-```
+##### main.js :
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. Selecting the index.html and mounting the whole App.vue to the #app.
+2. We can define routes and by use() function.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+##### App.vue : 
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. Here we defined <RouterView/> to perform route switching.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##### router.vue : 
+
+1. Same as the router in Reactjs, with ~vue/router
+
+##### components : Same
+
+
+
+
+## Composition API
+
+- Composition API introduced in Vue 3
+  

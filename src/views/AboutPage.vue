@@ -1,13 +1,11 @@
 <template>
   <div>
-    <RouterView />
+    <h1 class="text-2xl text-center p-10">About Page</h1>
   </div>
 </template>
 
 <script>
-import "./index.css";
-
 export default {
-  name: "App",
+  name: "AboutPage",
 };
 </script>
